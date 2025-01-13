@@ -10,5 +10,9 @@ jobs:
   ci_job:
     runs-on: ubuntu-latest
     steps:
-      - name: Step No.1
+      - name: Step No.1 of ci_job1
         run: echo "Allah Please Help Me"
+  ci_job2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Step No.1 of ci_job2
