@@ -12,3 +12,4 @@ jobs:
     steps:
       - name: Step No.1
         run: echo "Allah Please Help Me"
+  ci_job:
